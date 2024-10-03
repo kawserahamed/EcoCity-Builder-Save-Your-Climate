@@ -88,8 +88,9 @@ We hope to **educate** children about the importance of climate action in a way 
 4. **Recycle**: Place recycling centers to manage waste and reduce pollution.
 
 
-
 ---
+## 📜 Conclusion
+EcoCity Builder offers kids a fun, educational experience that helps them understand how to fight climate change in real life.
 
 
 
