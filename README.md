@@ -64,8 +64,8 @@ We hope to **educate** children about the importance of climate action in a way 
 
 ## 📷 **Screenshots**
 
-| Before the Game Begins | After Restoring the City |
-|------------------------|--------------------------|
+| Before the Game Begins                                      | After Restoring the City                                        |
+|-------------------------------------------------------------|-----------------------------------------------------------------|
  <img src="https://github.com/user-attachments/assets/eace43b6-e1d2-4fe0-ada4-10a294a51512" width="500" alt="accessibility text"> 
  <img src="https://github.com/user-attachments/assets/75def0ec-bf81-4250-a68b-9ac25146178e" width="500" alt="accessibility text">
 
