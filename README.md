@@ -1,10 +1,10 @@
-# 🌍 **EcoCity Builder: Save Your World** 🌱
+# 🌍 **EcoCity Builder: Save Your Climate** 🌱
 ## 🚀 This project was created for the NASA Space Apps Challenge 2024 🌌
 
 ![EcoCity Builder Banner](https://github.com/user-attachments/assets/af1c0e39-57ab-44c7-93ac-1fe4a67d6f64) <!-- Add your game banner here -->
 
 ## 📖 **Introduction**
-**EcoCity Builder: Save Your World** is an educational and interactive game that helps children learn about **climate change** through engaging and fun gameplay. Players are tasked with restoring a polluted city by planting trees, cleaning water, recycling waste, and promoting biodiversity.
+**EcoCity Builder: Save Your Climate** is an educational and interactive game that helps children learn about **climate change** through engaging and fun gameplay. Players are tasked with restoring a polluted city by planting trees, cleaning water, recycling waste, and promoting biodiversity.
 
 
 
